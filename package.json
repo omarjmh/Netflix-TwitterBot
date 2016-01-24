@@ -1,0 +1,14 @@
+{
+  "name": "ohsbot",
+  "version": "1.0.0",
+  "description": "nflx daily tweets",
+  "main": "twitterBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ohs",
+  "license": "MIT",
+  "dependencies": {
+    "node-twitterbot": "^0.2.2"
+  }
+}
